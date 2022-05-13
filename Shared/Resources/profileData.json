@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "password": "abc",
+        "first_name": "Dan",
+        "last_name": "Frecka",
+		"gender": "Male",
+		"username": "admin",
+		"birthplace_name": "Newport, TN, USA",
+		"birthplace": {"longitude": 35.88760, "latitude": -80.008760}
+     },
+	{
+        "id": 2,
+        "password": "123",
+		"first_name": "Joe",
+        "last_name": "Smith",
+		"gender": "Male",
+		"username": "js",
+		"birthplace_name": "Cincinnati, OH, USA",
+		"birthplace": {"longitude": 39.8789000, "latitude": -83.06600}
+	}
+]
